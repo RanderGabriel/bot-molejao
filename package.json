@@ -1,0 +1,12 @@
+{
+  "name": "bot-molejao",
+  "version": "0.1",
+  "description": "Bot do molejão para o discord",
+  "main": "index.js",
+  "author": "Rander Oliveira",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
